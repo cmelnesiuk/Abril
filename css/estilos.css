@@ -2,7 +2,7 @@ html{
   scroll-behavior: smooth;
 }
 .modal-content{
-  background-image: url("../images/fondo.jpg");
+  background-image: url("../images/fondo-min.jpg");
   background-size: cover;
   opacity: 0.7;
 }
