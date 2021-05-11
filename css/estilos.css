@@ -180,6 +180,9 @@ opacity: 0.3;
   align-items: center;
   padding-bottom: 15px; 
 }
+.fa{
+  color: gray;
+}
 .player-btn{
   cursor: pointer;
   border-radius: 50%;
