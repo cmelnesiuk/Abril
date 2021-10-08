@@ -33,7 +33,6 @@ playPauseYLCCA.addEventListener("click", () => {
 		}	
 })
 
-
 const pensamientosImposibles = document.getElementById("PensamientosImposibles")
 const playPausePI = document.getElementById("playPI")
 
@@ -48,7 +47,6 @@ playPausePI.addEventListener("click", () => {
 			playPausePI.querySelector(".play-btn").classList.toggle("hide")
 		}	
 })
-
 
 const descansoYolvido = document.getElementById("DescansoyOlvido")
 const playPauseDYO = document.getElementById("playDyO")
