@@ -611,6 +611,10 @@ footer{
 
 
 @media(max-width:575.98px) {
+body{
+  margin-left: -10px;
+}	
+	
 .fas {
   font-size: 20px;
   text-decoration: none;
